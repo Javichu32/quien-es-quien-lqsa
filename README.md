@@ -70,7 +70,7 @@
     const personajes = [
 { nombre: "amador", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://album.mediaset.es/cimg/1000001/2017/02/14/p1.jpg") },
 { nombre: "carmelito", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://pbs.twimg.com/profile_images/918576762346459136/p0x52UDO_400x400.jpg") },
-{ nombre: "raluka", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://static.wikia.nocookie.net/seriesspain/images/3/3f/Raluca.jpg") },
+{ nombre: "raluka", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://ibb.co/9Hy4g2q2") },
 { nombre: "kiamba punko", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://static.wikia.nocookie.net/seriesspain/images/3/30/Dibujo.jpg") },
 { nombre: "esteso", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://pbs.twimg.com/profile_images/2453025677/image_400x400.jpg") },
 { nombre: "izaskun", img: "https://images.weserv.nl/?url=" + encodeURIComponent("https://static.wikia.nocookie.net/seriesspain/images/e/e5/Isazkun_Sagastume.jpg") },
