@@ -71,7 +71,7 @@
       { nombre: "amador", img: "https://album.mediaset.es/cimg/1000001/2017/02/14/p1.jpg" },
 { nombre: "carmelito", img: "https://pbs.twimg.com/profile_images/918576762346459136/p0x52UDO_400x400.jpg" },
 { nombre: "raluka", img: "https://images.weserv.nl/?url=static.wikia.nocookie.net/seriesspain/images/3/3f/Raluca.jpg" },
-{ nombre: "kiamba punko", img: "https://static.wikia.nocookie.net/seriesspain/images/3/30/Dibujo.jpg/revision/latest/scale-to-width-down/327?cb=20140208170653&path-prefix=es" },
+{ nombre: "kiamba punko", img: "https://static.wikia.nocookie.net/seriesspain/images/3/30/Dibujo.jpg" },
 { nombre: "esteso", img: "https://pbs.twimg.com/profile_images/2453025677/image_400x400.jpg" },
 { nombre: "izaskun", img: "https://static.wikia.nocookie.net/seriesspain/images/e/e5/Isazkun_Sagastume.jpg/revision/latest?cb=20111112103237&path-prefix=es" },
 { nombre: "julian", img: "https://static.wikia.nocookie.net/miradordemontepinar/images/b/b3/Miradordemontepinar_wiki_Juli%C3%A1n_Pastor.png/revision/latest?cb=20190825135424&path-prefix=es" },
